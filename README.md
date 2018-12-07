@@ -1,5 +1,5 @@
 # playing-god
-a supplement for the Basic Fantasy RPG
+A supplement for the Basic Fantasy RPG
 
 # **BASIC FANTASY ROLE-PLAYING GAME PRODUCT IDENTITY LICENSE**
 >>Subject to the terms of the Open Game License, you may create derivative works based upon the Basic Fantasy RPG core rules (and/or other >>materials also found on this site which are Open Game Content). However, the Open Game License protects the Product Identity such that >>you must have permission from the copyright holder before you may use any of the listed Product Identity (review the license text in the >>core rules document for details).
